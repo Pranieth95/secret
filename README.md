@@ -1,4 +1,4 @@
-## Repo Breakdown 
+## Repo Breakdown of spectral goat
 Includes a combination of:
 
 * Secrets, access control, hardcoding across many providers and systems
